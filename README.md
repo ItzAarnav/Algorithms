@@ -6,4 +6,4 @@ I have 10+ algorithms as of March 6th, 2025.
 
 Mar 6 2025 || Commit 1: Initial commit
 <br>
-Mar ? 2025 || Commit 2: Added 3 new algorithms
+Mar 8 2025 || Commit 2: Added 2 new files(palindrome checker + tests)
