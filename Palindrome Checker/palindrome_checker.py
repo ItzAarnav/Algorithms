@@ -33,5 +33,5 @@ def check_palindrome(char: str):
 
 
 # Test Case
-characters = ""
+characters = "2121212"
 print(check_palindrome(characters))
