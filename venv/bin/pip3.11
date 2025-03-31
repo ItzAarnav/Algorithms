@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/Aarnav/Desktop/AarnavStuff/untitled folder/venv/bin/python3" "$0" "$@"
-' '''
+#!/Users/Aarnav/Desktop/AarnavStuff/Algorithms/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
